@@ -1,5 +1,8 @@
 body {
-    background-image: url("../assets/images/website-background.jpg");
+    background-image: url("/assets/images/Synthwave-background.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -9,11 +12,21 @@ body {
     background-size: cover;
     background-position: center;
 } */
+.lead = {
+    position: relative;
+    color: white;
+    text-justify: center;
+    text-align: center;
+}
 
 .container {
     flex: 1;
+    position: relative;
+    text-align: center;
+    color: white;
 }
 
 footer {
     margin-top: auto;
+    color: blueviolet;
 }
