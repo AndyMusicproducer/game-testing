@@ -1,0 +1,19 @@
+body {
+    background-image: url("../assets/images/website-background.jpg");
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+/* .body {
+    background-image: url("../assets/images/website-background.jpg");
+    background-size: cover;
+    background-position: center;
+} */
+
+.container {
+    flex: 1;
+}
+
+footer {
+    margin-top: auto;
+}
