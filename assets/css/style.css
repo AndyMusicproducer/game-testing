@@ -12,13 +12,16 @@ body {
     background-size: cover;
     background-position: center;
 } */
+
 .lead {
     position: relative;
     color: white;
     text-justify: center;
     text-align: center;
 }
-
+.card {
+    background-color: transparent;
+}
 .container {
     flex: 1;
     position: relative;
